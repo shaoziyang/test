@@ -8,8 +8,7 @@
     },
     "files": [
         "README.md",
-        "OLED12864_I2C.ts",
-        "_locales/zh/OLED12864_I2C-strings.json"
+        "OLED12864_I2C.ts"
     ],
     "testFiles": [
         "test.ts"
